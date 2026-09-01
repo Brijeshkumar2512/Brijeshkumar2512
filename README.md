@@ -154,7 +154,7 @@ A new project description goes here.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brijeshkumar2512&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brijeshkumar2512&hide_border=true&theme=tokyo-night" width="100%"/>
 </p>
 
 ---
