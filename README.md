@@ -57,10 +57,11 @@ I have learned the core concepts of the **MERN Stack** and I'm currently focused
 ---
 
 # 🚀 Featured Projects
+Here are some of the projects I have built while learning and improving my development skills.
 
 ### 🎮 Tic Tac Toe
 
-An interactive browser-based Tic Tac Toe game built with HTML, CSS and JavaScript.
+An interactive browser-based Tic Tac Toe game built using HTML, CSS and JavaScript.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -84,9 +85,11 @@ A simple and interactive web application for generating beautiful CSS gradients.
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio website showcasing my skills, projects and development journey.
+A personal portfolio website showcasing my skills, projects and development journey.
 
 **Tech:** HTML • CSS • JavaScript
+
+🔗 **Live Demo:** [View Project](https://brijeshkumar2512.github.io/my-portfolio/)
 
 🔗 **Source Code:** [GitHub Repository](https://github.com/Brijeshkumar2512/my-portfolio)
 
@@ -94,9 +97,11 @@ My personal portfolio website showcasing my skills, projects and development jou
 
 ### ✅ Todo List
 
-A simple and interactive Todo List application designed to manage daily tasks.
+A simple and interactive Todo List application for managing daily tasks.
 
 **Tech:** HTML • CSS • JavaScript
+
+🔗 **Live Demo:** [View Project](https://brijeshkumar2512.github.io/Todo-List/)
 
 🔗 **Source Code:** [GitHub Repository](https://github.com/Brijeshkumar2512/Todo-List)
 
@@ -108,7 +113,24 @@ A functional calculator application built using HTML, CSS and JavaScript.
 
 **Tech:** HTML • CSS • JavaScript
 
+🔗 **Live Demo:** [View Project](https://brijeshkumar2512.github.io/Proper-Calculator/)
+
 🔗 **Source Code:** [GitHub Repository](https://github.com/Brijeshkumar2512/Proper-Calculator)
+
+---
+
+### ➕ New Project Template
+
+A new project description goes here.
+
+**Tech:** React • Node.js • Express • MongoDB
+
+🔗 **Live Demo:** [View Project](YOUR_LIVE_DEMO_LINK)
+
+🔗 **Source Code:** [GitHub Repository](YOUR_GITHUB_REPOSITORY_LINK)
+
+---
+
 
 ---
 
@@ -121,11 +143,10 @@ A functional calculator application built using HTML, CSS and JavaScript.
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brijeshkumar2512&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshkumar2512&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Brijeshkumar2512&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -141,9 +162,9 @@ A functional calculator application built using HTML, CSS and JavaScript.
 # 🤝 Connect With Me
 
 <p align="left">
-        <a href="mailto:brijeshkumar240130@gmail.com">
+    <a href="mailto:brijeshkumar240130@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a
+  </a>
   <a href="https://github.com/Brijeshkumar2512">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
