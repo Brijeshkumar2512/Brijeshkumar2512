@@ -3,6 +3,9 @@
 ### 💻 MERN Stack Developer | B.Tech CSE Student | Problem Solver
 
 <p align="left">
+    <a href="mailto:brijeshkumar240130@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/Brijeshkumar2512">
     <img src="https://img.shields.io/github/followers/Brijeshkumar2512?label=Followers&style=flat-square" />
   </a>
@@ -121,10 +124,11 @@ A functional calculator application built using HTML, CSS and JavaScript.
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Brijeshkumar2512&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brijeshkumar2512&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijeshkumar2512&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 </p>
 
 ---
