@@ -87,25 +87,14 @@ A simple and interactive web application for generating beautiful CSS gradients.
 
 A personal portfolio website showcasing my skills, projects and development journey.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** Mern Stack 
 
-🔗 **Live Demo:** [View Project](https://brijeshkumar2512.github.io/my-portfolio/)
+🔗 **Live Demo:** [View Project](https://professional-portfolio-weld-ten.vercel.app/)
 
-🔗 **Source Code:** [GitHub Repository](https://github.com/Brijeshkumar2512/my-portfolio)
-
----
-
-### ✅ Todo List
-
-A simple and interactive Todo List application for managing daily tasks.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 **Live Demo:** [View Project](https://brijeshkumar2512.github.io/Todo-List/)
-
-🔗 **Source Code:** [GitHub Repository](https://github.com/Brijeshkumar2512/Todo-List)
+🔗 **Source Code:** [GitHub Repository](https://professional-portfolio-weld-ten.vercel.app/)
 
 ---
+
 
 ### 🧮 Calculator
 
